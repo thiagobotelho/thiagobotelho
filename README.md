@@ -22,10 +22,10 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagobotelho&show_icons=true&theme=radical&count_private=true&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=radical&hide_title=true&hide_progress=false&langs_count=8"/>
-</p>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagobotelho&show_icons=true&theme=tokyonight&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=radical&hide_title=true&langs_count=6"/>
+</div>
 
 ---
 
