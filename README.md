@@ -31,16 +31,19 @@
 
 ### 🌐 Links & Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagobotelho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagobotelho-devops)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagobotelho)
-[![E-mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@dominio.com)
-[![Blog](https://img.shields.io/badge/Blog-InfraAsCode-black?style=for-the-badge&logo=readme&logoColor=white)](https://seublog.dev)
+[![E-mail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagobotelho_redes@hotmail.com)
 
 ---
 
-### 📝 Sobre Mim
+### ✏️ Sobre Mim
 
-Sou um profissional com atuação sólida em ambientes de missão crítica, focado em práticas modernas de DevOps, automação e segurança. Tenho experiência com pipelines CI/CD, infraestrutura em containers, rastreabilidade com OpenTelemetry e observabilidade com Grafana Stack. Estou em constante evolução técnica e linguística, sempre buscando a excelência na entrega.
+Sou um profissional com atuação sólida em ambientes de missão crítica, focado em práticas modernas de DevOps, automação e segurança. Tenho experiência com pipelines CI/CD, infraestrutura como código, containers, rastreabilidade com OpenTelemetry e observabilidade com Grafana.
+
+💡 **Apaixonado por tecnologia**, estou sempre estudando e testando novas ferramentas e soluções para entregar valor com eficiência, segurança e escalabilidade.
+
+Atualmente, me aprofundo em estratégias de monitoramento, SSO corporativo com Keycloak (RHBK) e arquitetura orientada a serviços. Também busco constante evolução técnica e linguística, aprendendo inglês e italiano.
 
 ---
 
