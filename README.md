@@ -2,7 +2,8 @@
 
 <p align="center">
 🔧 Analista de TI focado em DevOps, Observabilidade e Infraestrutura como Código  
-🎯 Atuação com Red Hat OpenShift, Ansible, Keycloak (RHBK), Zabbix, Grafana e mais  
+🎯 Atuação com Red Hat OpenShift, Ansible, Keycloak (RHBK), Zabbix, Grafana e mais
+🌍 Estudando inglês e italiano para expandir fronteiras profissionai
 </p>
 
 ---
