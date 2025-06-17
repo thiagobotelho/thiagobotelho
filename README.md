@@ -23,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagobotelho&show_icons=true&theme=tokyonight&hide_title=true" width="420px" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=gruvbox_light&hide_title=true&langs_count=6" width="300px" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&hide_title=false&langs_count=6" width="350px" style="display:inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&hide_title=false&rank_icon=percentile&custom_title=Thiago%20Botelho's%20GitHub%20Stats" width="430px" style="display:inline-block;"/>
 </div>
 
 ---
