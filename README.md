@@ -48,13 +48,6 @@
 
 ---
 
-### 🏆 Trophies (Opcional)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thiagobotelho&theme=onedark&row=1&column=6&no-bg=true&no-frame=true" />
-</p>
-
----
-
 ### 🌐 Links & Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagobotelho-devops)
