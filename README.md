@@ -51,19 +51,19 @@
 ### 📦 Destaques do Portfólio
 
 <p align="center">
-  <a href="https://github.com/thiagobotelho/rhbk-gitops">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=rhbk-gitops&theme=blueberry&cache_seconds=86400" />
+  <a href="https://github.com/thiagobotelho/metallb-gitops">
+    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=metallb-gitops&theme=blueberry&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/thiagobotelho/rhbk-image">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=rhbk-image&theme=blueberry&cache_seconds=86400" />
+  <a href="https://github.com/thiagobotelho/keycloak-gitops">
+    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=blueberry&cache_seconds=86400" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/thiagobotelho/tempo-gitops">
     <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=tempo-gitops&theme=blueberry&cache_seconds=86400" />
   </a>
-  <a href="https://github.com/thiagobotelho/nsxalb-automation">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=nsxalb-automation&theme=blueberry&cache_seconds=86400" />
+  <a href="https://github.com/thiagobotelho/argocd-gitops">
+    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=blueberry&cache_seconds=86400" />
   </a>
 </p>
 
