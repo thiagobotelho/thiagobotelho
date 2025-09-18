@@ -48,23 +48,9 @@
 
 ---
 
-### 📦 Destaques do Portfólio
-
+### 🏆 Trophies (Opcional)
 <p align="center">
-  <a href="https://github.com/thiagobotelho/metallb-gitops">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=metallb-gitops&theme=blueberry&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/thiagobotelho/keycloak-gitops">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=blueberry&cache_seconds=86400" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/thiagobotelho/tempo-gitops">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=tempo-gitops&theme=blueberry&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/thiagobotelho/argocd-gitops">
-    <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=blueberry&cache_seconds=86400" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=thiagobotelho&theme=onedark&row=1&column=6&no-bg=true&no-frame=true" />
 </p>
 
 ---
