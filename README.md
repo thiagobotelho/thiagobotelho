@@ -23,8 +23,27 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&hide_title=false&langs_count=6&cache_seconds=86400" width="350px"/>
-  <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&hide_title=false&rank_icon=percentile&custom_title=Thiago%20Botelho%20GitHub%20Stats&cache_seconds=86400" width="430px"/>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&langs_count=6&hide_title=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=6&hide_title=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="Top Languages" width="350"
+      src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&langs_count=6&hide_title=true&cache_seconds=86400" />
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&rank_icon=percentile&include_all_commits=true&count_private=true&hide_title=true&cache_seconds=86400"
+      media="(prefers-color-scheme: dark)" />
+    <source 
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&count_private=true&hide_title=true&cache_seconds=86400"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img alt="GitHub Stats" width="430"
+      src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&rank_icon=percentile&include_all_commits=true&count_private=true&hide_title=true&cache_seconds=86400" />
+  </picture>
 </div>
 
 ---
