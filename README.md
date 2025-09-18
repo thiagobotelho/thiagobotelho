@@ -23,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&hide_title=false&langs_count=6&cache_seconds=86400" width="350px" style="display:inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&hide_title=false&rank_icon=percentile&custom_title=Thiago%20Botelho's%20GitHub%20Stats&cache_seconds=86400" width="430px" style="display:inline-block;"/>
+  <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&hide_title=false&langs_count=6&cache_seconds=86400" width="350px"/>
+  <img src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&hide_title=false&rank_icon=percentile&custom_title=Thiago%20Botelho%20GitHub%20Stats&cache_seconds=86400" width="430px"/>
 </div>
 
 ---
