@@ -23,18 +23,20 @@
 
 ## Sobre mim
 
-Sou um profissional de infraestrutura com foco em DevOps, automação, segurança
-e observabilidade. Tenho experiência com pipelines CI/CD, infraestrutura como
-código, containers e rastreabilidade de aplicações.
+Atuo com infraestrutura, DevOps, automação, segurança e observabilidade em
+ambientes de missão crítica. Tenho experiência com pipelines CI/CD,
+infraestrutura como código, containers e rastreabilidade de aplicações.
 
-Gosto de transformar tarefas operacionais repetitivas em processos
-reproduzíveis, documentados e seguros. Meus laboratórios públicos refletem esse
-interesse por aprendizado prático e melhoria contínua.
+Transformo atividades operacionais repetitivas em processos automatizados,
+reproduzíveis, documentados e seguros. Uso meus laboratórios públicos para
+experimentar tecnologias e compartilhar implementações práticas.
 
 ## Tecnologias
 
 <p align="center">
   <img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img alt="Argo CD" src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white">
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white">
   <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white">
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
@@ -44,12 +46,11 @@ interesse por aprendizado prático e melhoria contínua.
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
-## Atualmente
+## Em desenvolvimento
 
-- aprofundando conhecimentos em OpenShift, GitOps e Platform Engineering;
-- estudando observabilidade com OpenTelemetry, Grafana, Tempo e Prometheus;
-- evoluindo práticas de SSO corporativo com Keycloak e RHBK;
-- desenvolvendo minha comunicação em inglês e italiano.
+- OpenShift, Kubernetes, GitOps e Platform Engineering;
+- observabilidade com OpenTelemetry, Grafana, Tempo e Prometheus;
+- identidade e SSO corporativo com Keycloak e RHBK.
 
 ## GitHub
 
