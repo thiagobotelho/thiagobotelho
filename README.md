@@ -57,25 +57,25 @@ interesse por aprendizado prático e melhoria contínua.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&langs_count=8&card_width=400&title_color=22d3ee&text_color=e6edf3&icon_color=2dd4bf&bg_color=135,0d1117,0f2633&border_color=155e75&border_radius=10&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=dark&langs_count=8&cache_seconds=86400">
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&langs_count=8&card_width=400&title_color=0891b2&text_color=24292f&icon_color=0f766e&bg_color=135,ffffff,ecfeff&border_color=a5f3fc&border_radius=10&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=8&cache_seconds=86400">
     <img
       alt="Linguagens mais utilizadas"
       height="165"
-      src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&langs_count=8&card_width=400&title_color=0891b2&text_color=24292f&icon_color=0f766e&bg_color=135,ffffff,ecfeff&border_color=a5f3fc&border_radius=10&cache_seconds=86400">
+      src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=8&cache_seconds=86400">
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=c4b5fd&text_color=e6edf3&icon_color=818cf8&ring_color=a78bfa&bg_color=135,0d1117,211a3a&border_color=5b4b8a&border_radius=10&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=7c3aed&text_color=24292f&icon_color=6366f1&ring_color=8b5cf6&bg_color=135,ffffff,f5f3ff&border_color=c4b5fd&border_radius=10&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
     <img
       alt="Estatísticas públicas de Thiago Botelho"
       height="165"
-      src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&rank_icon=percentile&include_all_commits=true&title_color=7c3aed&text_color=24292f&icon_color=6366f1&ring_color=8b5cf6&bg_color=135,ffffff,f5f3ff&border_color=c4b5fd&border_radius=10&cache_seconds=86400">
+      src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
   </picture>
 </div>
