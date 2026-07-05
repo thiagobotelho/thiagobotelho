@@ -79,39 +79,3 @@ interesse por aprendizado prático e melhoria contínua.
       src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
   </picture>
 </div>
-
-## Projetos em destaque
-
-<div align="center">
-  <a href="https://github.com/thiagobotelho/argocd-gitops">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=blueberry">
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=default">
-      <img width="48%" alt="Repositório argocd-gitops" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=default">
-    </picture>
-  </a>
-  <a href="https://github.com/thiagobotelho/keycloak-gitops">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=blueberry">
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=default">
-      <img width="48%" alt="Repositório keycloak-gitops" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=default">
-    </picture>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/thiagobotelho/opentelemetry-gitops">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=opentelemetry-gitops&theme=blueberry">
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=opentelemetry-gitops&theme=default">
-      <img width="48%" alt="Repositório opentelemetry-gitops" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=opentelemetry-gitops&theme=default">
-    </picture>
-  </a>
-  <a href="https://github.com/thiagobotelho/terminal-config">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=blueberry">
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=default">
-      <img width="48%" alt="Repositório terminal-config" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=default">
-    </picture>
-  </a>
-</div>
