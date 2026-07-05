@@ -57,48 +57,61 @@ interesse por aprendizado prático e melhoria contínua.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=github_dark&rank_icon=percentile&include_all_commits=true&hide_border=true&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=blueberry&langs_count=8&cache_seconds=86400">
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&hide_border=true&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=8&cache_seconds=86400">
     <img
-      alt="Estatísticas públicas de Thiago Botelho"
+      alt="Linguagens mais utilizadas"
       height="165"
-      src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&hide_border=true&cache_seconds=86400">
+      src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=8&cache_seconds=86400">
   </picture>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=github_dark&langs_count=8&hide_border=true&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=blueberry&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=8&hide_border=true&cache_seconds=86400">
+      srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
     <img
-      alt="Linguagens mais utilizadas"
+      alt="Estatísticas públicas de Thiago Botelho"
       height="165"
-      src="https://github-readme-stats-eosin-delta-28.vercel.app/api/top-langs/?username=thiagobotelho&layout=compact&theme=default&langs_count=8&hide_border=true&cache_seconds=86400">
+      src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
   </picture>
 </div>
 
-## Projeto em destaque
+## Projetos em destaque
 
 <div align="center">
-  <a href="https://github.com/thiagobotelho/terminal-config">
+  <a href="https://github.com/thiagobotelho/argocd-gitops">
     <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=github_dark&hide_border=true">
-      <source
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=default&hide_border=true">
-      <img
-        alt="Repositório terminal-config"
-        src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=default&hide_border=true">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=blueberry">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=default">
+      <img width="48%" alt="Repositório argocd-gitops" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=argocd-gitops&theme=default">
+    </picture>
+  </a>
+  <a href="https://github.com/thiagobotelho/keycloak-gitops">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=blueberry">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=default">
+      <img width="48%" alt="Repositório keycloak-gitops" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=keycloak-gitops&theme=default">
     </picture>
   </a>
 </div>
 
-<p align="center">
-  <sub>Os cartões são gerados pela minha implantação do
-  <a href="https://github.com/thiagobotelho/github-readme-stats">github-readme-stats</a>.</sub>
-</p>
+<div align="center">
+  <a href="https://github.com/thiagobotelho/opentelemetry-gitops">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=opentelemetry-gitops&theme=blueberry">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=opentelemetry-gitops&theme=default">
+      <img width="48%" alt="Repositório opentelemetry-gitops" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=opentelemetry-gitops&theme=default">
+    </picture>
+  </a>
+  <a href="https://github.com/thiagobotelho/terminal-config">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=blueberry">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=default">
+      <img width="48%" alt="Repositório terminal-config" src="https://github-readme-stats-eosin-delta-28.vercel.app/api/pin/?username=thiagobotelho&repo=terminal-config&theme=default">
+    </picture>
+  </a>
+</div>
