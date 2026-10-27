@@ -80,3 +80,12 @@ experimentar tecnologias e compartilhar implementações práticas.
       src="https://github-readme-stats-eosin-delta-28.vercel.app/api?username=thiagobotelho&show_icons=true&theme=default&rank_icon=percentile&include_all_commits=true&cache_seconds=86400">
   </picture>
 </div>
+
+## Percurso de estudo
+
+- Workstation e ferramentas: [fedora-setup](https://github.com/thiagobotelho/fedora-setup), [terminal-config](https://github.com/thiagobotelho/terminal-config) e [openshift-cli-installer](https://github.com/thiagobotelho/openshift-cli-installer).
+- Fundamentos: [python-estudos](https://github.com/thiagobotelho/python-estudos) e [openshift-gitops-lab](https://github.com/thiagobotelho/openshift-gitops-lab). Acesso aos projetos privados depende da conta autorizada.
+- Plataforma: [argocd-gitops](https://github.com/thiagobotelho/argocd-gitops) coordena os componentes; consulte pré-requisitos de cada repositório.
+- Rede e segurança: [service-mesh-gitops](https://github.com/thiagobotelho/service-mesh-gitops) entrega infraestrutura; [mesh-apps-lab](https://github.com/thiagobotelho/mesh-apps-lab) contém exercícios manuais com políticas comentadas.
+
+Leia propósito e arquitetura, renderize os exemplos, execute os testes locais e só então aplique em ambiente isolado. Os guias descrevem resultados esperados; relatos pessoais de execução não fazem parte da documentação operacional.
