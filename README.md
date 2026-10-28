@@ -89,3 +89,5 @@ experimentar tecnologias e compartilhar implementações práticas.
 - Rede e segurança: [service-mesh-gitops](https://github.com/thiagobotelho/service-mesh-gitops) entrega infraestrutura; [mesh-apps-lab](https://github.com/thiagobotelho/mesh-apps-lab) contém exercícios manuais com políticas comentadas.
 
 Leia propósito e arquitetura, renderize os exemplos, execute os testes locais e só então aplique em ambiente isolado. Os guias descrevem resultados esperados; relatos pessoais de execução não fazem parte da documentação operacional.
+
+A [arquitetura e as integrações da stack](https://github.com/thiagobotelho/argocd-gitops/blob/main/docs/ARQUITETURA-E-INTEGRACOES.md) identificam a responsabilidade de cada repositório e a sequência de instalação. Para logs, políticas e tracing, consulte o [guia operacional do mesh](https://github.com/thiagobotelho/service-mesh-gitops/blob/main/docs/OBSERVABILIDADE.md).
